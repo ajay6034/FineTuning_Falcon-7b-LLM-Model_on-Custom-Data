@@ -22,3 +22,7 @@ Employs 4-bit quantization using BitsAndBytesConfig to reduce memory usage and e
 
 #### Trainer Workflow:
 - Leverages the SFTTrainer from the transformers library for supervised fine-tuning.
+
+## OUTPUT 
+![image](https://github.com/user-attachments/assets/4355dc3b-b3bb-4ba4-9164-276b24e9ed21)
+
